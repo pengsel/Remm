@@ -84,3 +84,11 @@ gksu gedit /etc/default/apport
 ```
 
 将enable=1改成0
+
+
+
+### 更改环境变量
+
+编辑/etc/environment文件；
+
+source /etc/environment使其生效
